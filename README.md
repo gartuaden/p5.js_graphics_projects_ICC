@@ -43,4 +43,7 @@ Intro to Creative Computing, Sogang University, 2020 Fall Season
 - It consists of 4 phases. Phase by phase, you may be required to make a choice.
 - Your choice will affect to the beans’ status.
 - [Trailer Video](https://www.youtube.com/watch?v=pyCy7-xE6qU)
-<img src= "./8. Rescue The Beans/rescuethebeans.gif" width = "600"/> 
+<img src= "./8. Rescue The Beans/rescuethebeans.gif" width = "600"/>
+
+
+### For more details, check out README.md in the project directory.
