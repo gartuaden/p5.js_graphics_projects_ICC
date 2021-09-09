@@ -44,4 +44,3 @@ Intro to Creative Computing, Sogang University, 2020 Fall Season
 - Your choice will affect to the beans’ status.
 <img src= "./8. Rescue The Beans/rescuethebeans.gif" width = "600"/> 
 
-
