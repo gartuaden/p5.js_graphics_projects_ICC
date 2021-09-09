@@ -14,5 +14,18 @@ Intro to Creative Computing, Sogang University, 2020 Fall Season
 ## Sparkler - [Project Link](https://preview.p5js.org/gartuaden/present/MfFXlfGUI)
 - The app will show you dark background with a stick and fire.
 - You can put the fire on the stick. The sparkler will glow brightly until it all burns.
+<img src = "./3. Sparkler/Sparkler.gif" width="250" height="350"/>
+
+## Follow Your Mood - [Project Link](https://preview.p5js.org/gartuaden/present/VfevuanAc)
+- The app will show you the night background with calm music.
+- If the surrounding voice goes high, the calm mood turns into exciting mood and the BGM changes.
+
+
+## Aurora Brush
+
+## your focus
+
+## Rescue The Beans
+
 
 
