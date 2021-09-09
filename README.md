@@ -26,11 +26,10 @@ Intro to Creative Computing, Sogang University, 2020 Fall Season
 - You can draw your own aurora with various shapes, positions, and colors.
 <img src= "./5. Aurora Brush/aurorabrush.gif" width = "600"/>
 
-
 ## your focus - [Project Link](https://preview.p5js.org/gartuaden/present/tcJOdOBrw)
 - The app will show you flying alphabets and the color of them will be changed as the time goes.
 - You can press your left-mouse button to make your own typography, own color, own moment, own world….
-
+<img src= "./6. your focus/yourfocus.gif" width = "600"/>
 
 
 
