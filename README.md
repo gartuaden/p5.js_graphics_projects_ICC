@@ -37,4 +37,11 @@ Intro to Creative Computing, Sogang University, 2020 Fall Season
 <img src= "./7. Shape Your Logo./shapeyourlogo.gif" width = "600"/>
 
 
+## Rescue The Beans - [Project Link](https://preview.p5js.org/gartuaden/present/Cmw6IdbXh)
+- Horror & Mystery & Storytelling Flash Game using Sound
+- Here are the beans in danger. They may experience nightmares or regain peace, depending on your choice.
+- It consists of 4 phases. Phase by phase, you may be required to make a choice.
+- Your choice will affect to the beans’ status.
+<img src= "./8. Rescue The Beans/rescuethebeans.gif" width = "600"/>
+
 
