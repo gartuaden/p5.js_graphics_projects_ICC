@@ -42,6 +42,6 @@ Intro to Creative Computing, Sogang University, 2020 Fall Season
 - Here are the beans in danger. They may experience nightmares or regain peace, depending on your choice.
 - It consists of 4 phases. Phase by phase, you may be required to make a choice.
 - Your choice will affect to the beans’ status.
-<img src= "./8. Rescue The Beans/rescuethebeans.gif" width = "600"/>
+<img src= "./8. Rescue The Beans/rescuethebeans.gif" width = "600"/> 
 
 
