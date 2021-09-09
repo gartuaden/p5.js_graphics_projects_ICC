@@ -24,11 +24,13 @@ Intro to Creative Computing, Sogang University, 2020 Fall Season
 ## Aurora Brush - [Project Link](https://preview.p5js.org/gartuaden/present/QedqTJxIt)
 - The app will show you dark background.
 - You can draw your own aurora with various shapes, positions, and colors.
+<img src= "./5. Aurora Brush/aurorabrush.gif" width = "600"/>
 
 
-## your focus - [Project Link]()
+## your focus - [Project Link](https://preview.p5js.org/gartuaden/present/tcJOdOBrw)
+- The app will show you flying alphabets and the color of them will be changed as the time goes.
+- You can press your left-mouse button to make your own typography, own color, own moment, own world….
 
-## Rescue The Beans - [Project Link]()
 
 
 
