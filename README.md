@@ -46,4 +46,4 @@ Intro to Creative Computing, Sogang University, 2020 Fall Season
 <img src= "./8. Rescue The Beans/rescuethebeans.gif" width = "600"/>
 
 
-### For more details, check out README.md in the project directory.
+#### For more details, check out README.md or the document file in the project directory.
