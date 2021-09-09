@@ -10,3 +10,9 @@ Intro to Creative Computing, Sogang University, 2020 Fall Season
 - The app will show you 2D pattern with colorful circles with black background.
 - You can move your mouse or left-click your mouse for various kinds of patterns.
 <img src = "./2. Rounded/rounded.gif" width="600"/>
+
+## Sparkler - [Project Link](https://preview.p5js.org/gartuaden/present/MfFXlfGUI)
+- The app will show you dark background with a stick and fire.
+- You can put the fire on the stick. The sparkler will glow brightly until it all burns.
+
+
