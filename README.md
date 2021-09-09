@@ -31,5 +31,10 @@ Intro to Creative Computing, Sogang University, 2020 Fall Season
 - You can press your left-mouse button to make your own typography, own color, own moment, own world….
 <img src= "./6. your focus/yourfocus.gif" width = "600"/>
 
+## Shape Your Logo. - [Project Link](https://preview.p5js.org/gartuaden/present/3E9LrCvgF)
+- The app will show you interface.
+- You can draw various kinds of shapes on the right side. Also, you can enter a logo name.
+<img src= "./7. Shape Your Logo./shapeyourlogo.gif" width = "600"/>
+
 
 
