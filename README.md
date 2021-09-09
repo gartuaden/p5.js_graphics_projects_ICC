@@ -19,13 +19,16 @@ Intro to Creative Computing, Sogang University, 2020 Fall Season
 ## Follow Your Mood - [Project Link](https://preview.p5js.org/gartuaden/present/VfevuanAc)
 - The app will show you the night background with calm music.
 - If the surrounding voice goes high, the calm mood turns into exciting mood and the BGM changes.
+<img src= "./4. Follow Your Mood/followyourmood.gif" width = "600"/>
+
+## Aurora Brush - [Project Link](https://preview.p5js.org/gartuaden/present/QedqTJxIt)
+- The app will show you dark background.
+- You can draw your own aurora with various shapes, positions, and colors.
 
 
-## Aurora Brush
+## your focus - [Project Link]()
 
-## your focus
-
-## Rescue The Beans
+## Rescue The Beans - [Project Link]()
 
 
 
